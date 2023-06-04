@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/registration.css" />
+  </head>
+  <body>
+    <div style="display: flex">
+      <h1 style="font-weight: 900; font-size: 54px; margin-left: 3rem">
+        Torados
+      </h1>
+      <p
+        style="
+          color: red;
+          font-weight: 900;
+          font-size: 35px;
+          border-radius: 100%;
+          margin-top: 1rem;
+        "
+      >
+        .
+      </p>
+    </div>
+    <div class="login">
+      <header class="header">
+        <span class="text">REGISTER</span>
+        <span class="loader"></span>
+      </header>
+      <form
+        class="form"
+        action="/animation"
+        method="post"
+        enctype="multipart/form-data"
+      >
+        <input
+          class="input btn-6"
+          style="margin-bottom: 1rem"
+          type="text"
+          required
+          placeholder="Name"
+          name="name"
+        />
+        <input
+          class="input btn-6"
+          style="margin-bottom: 1rem; margin-left: 1rem"
+          type="email"
+          required
+          placeholder="Email"
+          name="email"
+        />
+        <label class="btn-6" for="inputTag"
+          >Upload Image<input
+            style="display: none"
+            id="inputTag"
+            type="file"
+            required
+            placeholder="Image"
+            name="image"
+        /></label>
+        <button class="btn" type="submit"></button>
+      </form>
+    </div>
+    <script src="/jquery/jquery.js"></script>
+    <script src="js/registration.js"></script>
+  </body>
+</html>
