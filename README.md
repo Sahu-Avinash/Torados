@@ -96,7 +96,7 @@ Run the following commands to start the server side.
 
 * Clone the repo
 ```sh
-  git clone https://github.com/akshat0313/Torados.git
+  git clone https://github.com/Sahu-Avinash/Torados.git
 ```
 * Locate inside the folder
 ```sh
