@@ -3,24 +3,7 @@
 
 
 
-<div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/akshat0313/Torados/pulls)
-
-
-</div>
-
-<p align="center">
- <a target="_blank" href="http://torados.herokuapp.com/">Link to the App</a>
-    ·
- <a target="_blank" href="https://youtu.be/2ceYu014fv4">Video Demo</a>
- ·
- <a target="_blank" href="https://drive.google.com/file/d/1m-25XoIR9GMtu-ArgJ9cVvCuJavT8nq7/view?usp=sharing">Presentation</a>
-  ·
- <a target="_blank" href="https://www.figma.com/file/NnJl98JgZWPrJVXekB0me7/Torados-Microsoft-Engage'22?node-id=0%3A1">Figma work</a>
-
-</p>
 
 # IMPORTANT -
 ### Currently the mail sending feature is not working because google has stopped providing that less security feature in gmail accounts from 30th may.
